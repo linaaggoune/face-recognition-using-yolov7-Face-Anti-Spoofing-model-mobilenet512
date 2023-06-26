@@ -1,0 +1,71 @@
+Face Recognition Result: [                                            identity  source_x  source_y  \
+0  imgs\Camera Roll\linaaggoun/WIN_20230612_00_16...       208        74   
+
+   source_w  source_h  Facenet512_cosine  
+0       236       236           0.225364  ]
+Face Recognition Result: [Empty DataFrame
+Columns: [identity, source_x, source_y, source_w, source_h, Facenet512_cosine]
+Index: []]
+Face Recognition Result: [Empty DataFrame
+Columns: [identity, source_x, source_y, source_w, source_h, Facenet512_cosine]
+Index: []]
+Face Recognition Result: [Empty DataFrame
+Columns: [identity, source_x, source_y, source_w, source_h, Facenet512_cosine]
+Index: []]
+Face Recognition Result: [                                            identity  source_x  source_y  \
+0  imgs\Camera Roll\linaaggoun/WIN_20230612_00_16...       216       116   
+
+   source_w  source_h  Facenet512_cosine  
+0       222       222           0.242551  ]
+Face Recognition Result: [                                            identity  source_x  source_y  \
+0  imgs\Camera Roll\linaaggoun/WIN_20230612_00_16...       210       104   
+1  imgs\Camera Roll\linaaggoun/WIN_20230612_17_13...       210       104   
+2  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       210       104   
+
+   source_w  source_h  Facenet512_cosine  
+0       209       209           0.228772  
+1       209       209           0.275382  
+2       209       209           0.281094  ]
+Face Recognition Result: [                                            identity  source_x  source_y  \
+0  imgs\Camera Roll\linaaggoun/WIN_20230612_00_16...       203       108   
+1  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       203       108   
+2  imgs\Camera Roll\linaaggoun/WIN_20230612_17_13...       203       108   
+3  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       203       108   
+4  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       203       108   
+
+   source_w  source_h  Facenet512_cosine  
+0       211       211           0.197011  
+1       211       211           0.269094  
+2       211       211           0.282889  
+3       211       211           0.283756  
+4       211       211           0.292173  ]
+Face Recognition Result: [                                            identity  source_x  source_y  \
+0  imgs\Camera Roll\linaaggoun/WIN_20230612_00_16...       198       109   
+1  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       198       109   
+2  imgs\Camera Roll\linaaggoun/WIN_20230612_17_13...       198       109   
+3  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       198       109   
+4  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       198       109   
+
+   source_w  source_h  Facenet512_cosine  
+0       216       216           0.190820  
+1       216       216           0.287398  
+2       216       216           0.293078  
+3       216       216           0.296786  
+4       216       216           0.298989  ]
+Face Recognition Result: [                                            identity  source_x  source_y  \
+0  imgs\Camera Roll\linaaggoun/WIN_20230612_00_16...       200       109   
+1  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       200       109   
+2  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       200       109   
+3  imgs\Camera Roll\linaaggoun/WIN_20230612_17_12...       200       109   
+4  imgs\Camera Roll\linaaggoun/WIN_20230612_17_13...       200       109   
+5  imgs\Camera Roll\linaaggoun/WIN_20230612_17_13...       200       109   
+6       imgs\Camera Roll\linaaggoun/linaagggoune.jpg       200       109   
+
+   source_w  source_h  Facenet512_cosine  
+0       210       210           0.220873  
+1       210       210           0.243182  
+2       210       210           0.243329  
+3       210       210           0.256614  
+4       210       210           0.277537  
+5       210       210           0.285725  
+6       210       210           0.296306  ]
